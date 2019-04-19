@@ -1,7 +1,74 @@
 body{
-    background-color: black;   
+    background-color:black;
+}
+
+.a-1{
+    background-color: rgb(245, 242, 239);
+    vertical-align: top; 
+    display: inline-block;
+    width: 30%;
+    height: 300px;
+}
+
+ul,div{
+    text-decoration: dashed;
+}
+
+.a{
+   color: aliceblue;
+    text-decoration: 30px; 
 }
 
 h1{
-    color: aqua;
+    color: aliceblue;
+    background-size: 90px;
+}
+
+.span{
+    background-size: 90px;
+}
+.b-1{
+    background-color: aliceblue;
+    vertical-align: top;
+    display: inline-block;
+    width: 70%;
+    height: 300px;
+}
+
+.c1{
+    background-color: black;
+    vertical-align: top;
+    display: inline;
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.a4{
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+}
+
+.d1{
+    background-color: black;
+    vertical-align: top;
+    display: inline;
+    text-align: center;
+}
+
+#a1{
+    color: aliceblue;
+}
+
+a{
+    color: aliceblue;
+}
+
+#d1{
+    margin: -17px;
+    padding: 9px;
+    display: inline;
+    border: 5px outset white;
 }
