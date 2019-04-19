@@ -2,6 +2,14 @@ body{
     background-color:black;
 }
 
+#ul-1{
+    display: inline-block;
+}
+
+.li-1{
+    display: inline-block;
+}
+
 .a-1{
     background-color: rgb(245, 242, 239);
     vertical-align: top; 
@@ -48,22 +56,29 @@ h1{
 .a4{
     color: aliceblue;
     font-size: 20px;
-    text-align: center;
+    
 }
 
 .d1{
     background-color: black;
     vertical-align: top;
     display: inline;
-    text-align: center;
+    
 }
 
 #a1{
     color: aliceblue;
 }
 
-a{
-    color: aliceblue;
+#a{
+    background-color: black;
+    color: white;
+    display: block;
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 0;
+    margin-right: 20px;
 }
 
 #d1{
